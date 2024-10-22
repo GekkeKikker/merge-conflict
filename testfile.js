@@ -1,5 +1,5 @@
-let getal1 = 50;
-let getal2 = 60;
+let getal1 = 90;
+let getal2 = 88;
 
 function telOp(getal1, getal2) {
   return getal1 + getal2;
@@ -7,3 +7,4 @@ function telOp(getal1, getal2) {
 }
 
 console.log(telOp(getal1, getal2));
+// en nog een regel code
